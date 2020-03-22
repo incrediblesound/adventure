@@ -14,11 +14,11 @@ Ghost: a spirit from the underworld
 Orc: a member of the orc “monster” type
 Elf: a magical being whose people lives in the woods
 
-**CLASS*
+**CLASS**
 Knight: a master of fighting with weapons
 Wizard: a master of magic
 
-**LEVEL*
+**LEVEL**
 1 - you character starts here
 2 - after 5 experience
 3 - after 15 experience

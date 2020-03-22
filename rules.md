@@ -1,6 +1,6 @@
 # Character Attributes
 
-Characters have the following attributes: name, type, class, defense, life, and power level. They are described below.
+Characters have the following attributes: name, type, class, defense, life, and power level.
 
 **NAME**
 This is simply the name of your character and can be anything you choose.
@@ -19,12 +19,12 @@ Knight: a master of fighting with weapons
 Wizard: a master of magic
 
 **LEVEL**
-1 - you character starts here
-2 - after 5 experience
-3 - after 15 experience
-4 - after 30 experience
-5 - after 60 experience
-6 - after 100 experience
+1. you character starts here
+2. after 5 experience
+3. after 15 experience
+4. after 30 experience
+5. after 60 experience
+6. after 100 experience
 
 
 **DEFENSE**

@@ -8,11 +8,11 @@ This is simply the name of your character and can be anything you choose.
 **TYPE**
 Your character can be one of the following types:
 
-Human: a human character
-Fairy: a magical being with a deep connection to nature
-Ghost: a spirit from the underworld
-Orc: a member of the orc “monster” type
-Elf: a magical being whose people lives in the woods
+Human: a human character  
+Fairy: a magical being with a deep connection to nature  
+Ghost: a spirit from the underworld  
+Orc: a member of the orc “monster” type  
+Elf: a magical being whose people lives in the woods  
 
 **CLASS**
 Knight: a master of fighting with weapons

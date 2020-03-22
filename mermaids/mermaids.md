@@ -14,12 +14,12 @@ The mermaids take you by the hand and pull you far down below the surface of the
 
 Magic item: ever-bright torch. Provides light whenever the player needs it without ever burning out.
 
-**ROOM #1**
+**ROOM #1**   
 The cave entrance widens out into a small room. An electric eel rushes towards you and attacks!
 
 Monster:  electric eel x 1
 
-**ROOM #2**
+**ROOM #2**   
 This room has a thick patch of black seaweed growing in it. If the players search the seaweed, first two electric eels come out. If they look again, they will find the crystal ball. 
 
 
@@ -27,12 +27,12 @@ Monster: electric eel x 2
 Magic item: Mermaid’s crystal ball
 
 
-**ROOM #3**
+**ROOM #3**   
 In this room the player will find the evil mermaid, he is protected by a large sawtooth eel. If the players kill the eel the evil mermaid will appear afraid. Then the player decides what to do. If the players didn’t find the crystal ball in the seaweed in room two, the evil mermaid will tell them it’s there so long as they demand it from him. If the players kill the evil mermaid then nothing happens. Nice players should probably make the evil mermaid apologize for stealing the ball.
 
 Monster: Sawtooth eel x 1, evil mermaid x 1
 
-**ROOM #4**
+**ROOM #4**   
 Here the cave ends in a secret exit that leads out to the open ocean. There is a necklace lying in the sand at the exit.
 
 Quest item: lost necklace (or something else of DMs invention)

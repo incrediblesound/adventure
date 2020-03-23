@@ -1,6 +1,5 @@
 # Adventure
-
-This is a simple variation on Dungeons and Dragons I made for my four year old daughter.
+A simple fantasy role-playing game for ages 4+.
 
 ## Tips for Gameplay
 The game requires a coin for d2 and a regular six sided die for d6. The DM can find a fun coin 

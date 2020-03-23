@@ -52,6 +52,6 @@ Additional one-off weapons can be invented for different types as long as they d
 3. (flying daggers / 1d6 damage)
 4. (fireball, lightning / 2d6 damage)
 
-Each monster has a defense attribute. To hit, the player must roll > -attack bonus + monster defense on a 1d6.
+At the beginning of combat, the player and DM both role 1d6 + initiative bonus to see who goes first. To hit you must roll > -attack bonus + opponent defense on 1d6.
 
 

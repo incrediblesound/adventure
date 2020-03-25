@@ -17,7 +17,7 @@ On the road to Rapunzel’s tower, the player encounters a giant owl who attacks
 
 _Giant Owl_   
 Defense: 3   
-Life: 3   
+Life: 4   
 Weapon: claw 1d2 damage   
 XP: 2   
 
@@ -31,6 +31,7 @@ Defense: 2
 Life: 3   
 Weapon: claw 1d3 damage   
 XP: 2   
+Special attribute: super fast +1 initiative   
 
 When the players get to the troll gate, of course they have to answer a riddle before the troll will let them come in. You can use any riddle, but if you don’t have one prepared you can use:
 
@@ -56,7 +57,7 @@ Now that the players have the apples, they can return to the troll to get the mi
 
 _Roc_   
 Defense: 2   
-Life: 3   
+Life: 5   
 Weapon: Claw 1d2 damage   
 XP: 2   
 
@@ -68,11 +69,12 @@ XP: 3
 
 _Bandits_   
 Defense: 2   
-Life: 3   
+Life: 4   
 Weapon: Dagger 1d2 damage   
 XP: 4 GP: 2   
 
 The DM can invent a reward that the player receives from Rapunzel according to what the player might like, or use one of these:
 
 Magic weapon: wand of lightning: 3 charges, 1d6 damage   
-Magic weapon: wand of ice: 3 charges, 1d2 damage + freezes enemy for 1 hour 
+Magic weapon: wand of ice: 3 charges, 1d2 damage + freezes enemy for 1 hour  
+Magic item: slippers of the wind +1 intiative
